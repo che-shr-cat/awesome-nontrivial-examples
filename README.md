@@ -11,10 +11,11 @@ A well-known picture of "How to draw an owl" represents this problem well:
 
 Here we try to gather some good nontrivial examples for different interesting technologies.
 
+**Pull-requests are welcome!**
+
 ## Python
 
 * "[asyncio: We Did It Wrong](https://www.roguelynn.com/words/asyncio-we-did-it-wrong/)" A good example of how to use asyncio (async/await) in a non-toy case.
 
 
 
-**P.S. Pull-requests are welcome!**
