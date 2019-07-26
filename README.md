@@ -9,13 +9,18 @@ A well-known picture of "How to draw an owl" represents this problem well:
 
 # Nontrivial examples
 
-Here we try to gather some good nontrivial examples for different interesting technologies.
+Here we try to gather some good nontrivial programming/architecture examples for different interesting technologies.
 
 **Pull-requests are welcome!**
 
 ## Python
 
-* "[asyncio: We Did It Wrong](https://www.roguelynn.com/words/asyncio-we-did-it-wrong/)" A good example of how to use asyncio (async/await) in a non-toy case.
+* "[asyncio: We Did It Wrong](https://www.roguelynn.com/words/asyncio-we-did-it-wrong/)" A good series of 8 posts on how to use asyncio (async/await) in a non-toy case.
+
+## Event processing
+
+* "[Why Kafka Streams didn't work for us?](https://aseigneurin.github.io/2017/08/04/why-kafka-streams-didnt-work-for-us-part-1.html)" A series of 4 posts on choosing betweek Kafka and Kafka Streams
+* "[Centrifuge: a reliable system for delivering billions of events per day](https://segment.com/blog/introducing-centrifuge/)" A case from Segment on how they built a large event processing system
 
 
 
