@@ -19,7 +19,7 @@ Here we try to gather some good nontrivial programming/architecture examples for
 
 ## Event processing
 
-* "[Why Kafka Streams didn't work for us?](https://aseigneurin.github.io/2017/08/04/why-kafka-streams-didnt-work-for-us-part-1.html)" A series of 3 posts on choosing betweek Kafka and Kafka Streams
+* "[Why Kafka Streams didn't work for us?](https://aseigneurin.github.io/2017/08/04/why-kafka-streams-didnt-work-for-us-part-1.html)" A series of 3 posts on choosing between Kafka and Kafka Streams
 * "[Centrifuge: a reliable system for delivering billions of events per day](https://segment.com/blog/introducing-centrifuge/)" A case from Segment on how they built a large event processing system
 
 
