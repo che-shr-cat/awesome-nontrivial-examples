@@ -22,5 +22,8 @@ Here we try to gather some good nontrivial programming/architecture examples for
 * "[Why Kafka Streams didn't work for us?](https://aseigneurin.github.io/2017/08/04/why-kafka-streams-didnt-work-for-us-part-1.html)" A series of 3 posts on choosing between Kafka and Kafka Streams
 * "[Centrifuge: a reliable system for delivering billions of events per day](https://segment.com/blog/introducing-centrifuge/)" A case from Segment on how they built a large event processing system
 
+## Deep Learning
 
+* "[Serving Google BERT in Production using Tensorflow and ZeroMQ
+]"(https://hanxiao.github.io/2019/01/02/Serving-Google-BERT-in-Production-using-Tensorflow-and-ZeroMQ/) How to serve BERT with low latency and high scalability
 
