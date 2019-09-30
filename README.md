@@ -24,6 +24,5 @@ Here we try to gather some good nontrivial programming/architecture examples for
 
 ## Deep Learning
 
-* "[Serving Google BERT in Production using Tensorflow and ZeroMQ
-]"(https://hanxiao.github.io/2019/01/02/Serving-Google-BERT-in-Production-using-Tensorflow-and-ZeroMQ/) How to serve BERT with low latency and high scalability
+* "[Serving Google BERT in Production using Tensorflow and ZeroMQ]"(https://hanxiao.github.io/2019/01/02/Serving-Google-BERT-in-Production-using-Tensorflow-and-ZeroMQ/) How to serve BERT with low latency and high scalability
 
